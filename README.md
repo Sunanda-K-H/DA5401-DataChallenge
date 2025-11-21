@@ -1,6 +1,7 @@
 # DA5401 Data Challenge
 
 Name: Kaki Hephzi Sunanda
+
 Roll Number: DA25M015
 
 This repository contains the implementation, experiments, and final submission files for the DA5401 course project (Kaggle Challenge). The objective of the task was to predict a continuous *fitness score* (0–10) from text–based metric evaluations. After extensive experimentation with both regression and classification paradigms, the final solution adopts a **classification-based CatBoost model** with expectation decoding, achieving a **Kaggle Public Score of 3.624**.
